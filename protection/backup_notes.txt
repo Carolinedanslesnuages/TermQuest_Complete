@@ -1,0 +1,1 @@
+Ensure sensitive_data.gpg is encrypted before transfer.
